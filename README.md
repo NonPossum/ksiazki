@@ -1,5 +1,3 @@
-# Opis Programu
-
 Narzędzie służącym do sprawdzania dostępności i lokalizowania książek na różnych stronach internetowych. Umożliwia wyszukiwanie książek na podstawie zadanych kryteriów i wyświetla wyniki w konsoli.
 
 ## Wymagania
