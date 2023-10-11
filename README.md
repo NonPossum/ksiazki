@@ -19,3 +19,8 @@ Narzędzie służącym do sprawdzania dostępności i lokalizowania książek na
        // Dodaj kolejne książki
    }
    ```
+
+Planowane Rozbudowy:
+Rozszerzenie programu o obsługę kolejnych stron.
+Dodanie dodatkowych opcji filtrowania i sortowania wyników.
+Ulepszanie interfejsu użytkownika i wizualizacji wyników.
